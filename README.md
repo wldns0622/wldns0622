@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/60139812/127777135-d97d8870-13b1-4fbc-83ab-7d91fe0be7f4.png" align="center" margin="0 auth" />
+<!-- <img src="https://user-images.githubusercontent.com/60139812/127777135-d97d8870-13b1-4fbc-83ab-7d91fe0be7f4.png" align="center" margin="0 auth" /> -->
 
 <h2> Quokka - Jiun </h2>
 <p> Junior front-end developer </p>
